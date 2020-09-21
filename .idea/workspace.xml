@@ -19,15 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="588191fd-933b-493d-9876-abb4f3b07e6b" name="Default Changelist" comment="First commit for laravel filter">
+    <list default="true" id="588191fd-933b-493d-9876-abb4f3b07e6b" name="Default Changelist" comment="Pagination">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Course/CourseController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Course.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Course.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Filters/Course/CourseFilters.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Filters/Course/CourseFilters.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +44,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Nepalex/laravel.git" />
+        <option value="https://github.com/Nepalex/laravelFilter.git" />
+      </set>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -208,6 +212,15 @@
       <workItem from="1600608568589" duration="1554000" />
       <workItem from="1600610698501" duration="1799000" />
       <workItem from="1600612513339" duration="2108000" />
+      <workItem from="1600631053528" duration="1795000" />
+      <workItem from="1600632860558" duration="1793000" />
+      <workItem from="1600634675484" duration="1190000" />
+      <workItem from="1600673413379" duration="607000" />
+      <workItem from="1600680525914" duration="1803000" />
+      <workItem from="1600682342180" duration="1740000" />
+      <workItem from="1600684159235" duration="1265000" />
+      <workItem from="1600685972377" duration="2076000" />
+      <workItem from="1600691192495" duration="1599000" />
     </task>
     <task id="LOCAL-00001">
       <created>1600438694809</created>
@@ -223,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600438771862</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pagination">
+      <created>1600631203451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600631203451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +263,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit for laravel filter" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit for laravel filter" />
+    <MESSAGE value="Pagination" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pagination" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600594823023">
@@ -272,9 +293,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="68" width="585" height="592" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1600594298762" />
-    <state x="339" y="157" key="run.anything.popup" timestamp="1600417602045">
+    <state x="339" y="157" key="run.anything.popup" timestamp="1600632361632">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1600417602045" />
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1600632361632" />
   </component>
 </project>
